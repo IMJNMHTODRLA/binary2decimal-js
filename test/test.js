@@ -1,32 +1,3 @@
-# binary2decimal-js
-# Version 1.0.0
-
-****
-
-## Description
-**A simple converter between binary and decimal numbers. For example: 31 -> 11111, 11111 -> 31.**
-
-****
-
-## Update
-
-- First Version
-
-****
-****
-
-## install
-```bash
-$ npm install binary2decimal-js
-```
-
-## using:
-
-****
-
-### toBytes
-
-```js
 const { toBinary } = require('..');
 
 /** toBinary Function */
@@ -53,4 +24,3 @@ console.log(toBinary('-2147483647', false, false))
 //Error: Negative is false
 
 /** End */
-```

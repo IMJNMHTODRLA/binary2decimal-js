@@ -1,0 +1,41 @@
+{
+    "name": "binary2decimal-js",
+    "version": "1.0.0",
+    "description": "A simple converter between binary and decimal numbers. For example: 31 -> 11111, 11111 -> 31.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IMJNMHTODRLA/binary2decimal-js"
+    },
+    "keywords": [
+        "bin",
+        "binary",
+        "ary",
+        "decimal",
+        "dec",
+        "imal",
+        "js",
+        "2",
+        "to",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "author": "_redgold__",
+    "license": "WTFPL",
+    "bugs": {
+        "url": "https://github.com/IMJNMHTODRLA/binary2decimal-js/issues"
+    },
+    "homepage": "https://github.com/IMJNMHTODRLA/binary2decimal-js#readme"
+}
